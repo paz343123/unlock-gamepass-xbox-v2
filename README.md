@@ -35,4 +35,4 @@ An automated utility tool designed to streamline, configure, and optimize access
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/UNLOCK-XBOX-GAMEPASS.git](https://github.com/paz343123/UNLOCK-XBOX-GAMEPASS.git)
+   git clone https://github.com/paz343123/UNLOCK-XBOX-GAMEPASS.git
